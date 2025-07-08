@@ -1,31 +1,77 @@
-# Customer Retention Program
- Mastery project utilizing PostgreSQL, Python, Tableau
+<p align="center">
+  <img src="collaterals/travel_tide_logo.png" alt="Travel Tide Logo" style="max-height: 200px;">
+</p>
 
-  
-[Job list](./psp.md)
+<h1 align="center">Customer Retention Program</h1>
 
+<p align="center">
+  <b>Mastery project utilizing PostgreSQL, Python, Tableau</b>
+</p>
 
-## Project Background and Objectives
+<p align="center">
+  <a href="./psp.md">Job list</a>
+</p>
 
-### Deliverables
-* xx
-* xx
-* xx
+---
 
-## Management Summary
-Main insights, results, additional analysis, next steps
+## 🚀 Project Overview
 
-## Report
-Closer look at situation, target groups and so on
+Kurzbeschreibung des Projekts, z.B.:
+> Ein datengetriebenes Kundenbindungsprogramm für die Reisebranche, das Analysen und Visualisierungen nutzt, um Kunden besser zu verstehen und gezielt anzusprechen.
 
-## Links
-to further documents
+## 🎯 Objectives
 
-## Project Organization
+- Ziel 1
+- Ziel 2
+- Ziel 3
 
-### Project Planing
+## 📊 Tech Stack
 
-### Tech Stack
+- PostgreSQL
+- Python
+- Tableau
 
-### Github directory structure
+## 📋 Deliverables
+
+- Konzept des Retention-Programms
+- Technische Dokumentation
+- Weitere Deliverables
+
+## 📑 Management Summary
+
+Kurze Zusammenfassung der wichtigsten Erkenntnisse, Ergebnisse und nächsten Schritte.
+
+## 📝 Report
+
+Detaillierte Analyse der Ausgangssituation, Zielgruppen usw.
+
+## 🔗 Links
+
+- [Weitere Dokumente](#)
+- [Job list](./psp.md)
+
+## 🗂️ Project Organization
+
+Kurze Beschreibung der Projektorganisation.
+
+---
+
+<details>
+<summary>📅 Project Planning</summary>
+
+- Meilenstein 1
+- Meilenstein 2
+
+</details>
+
+<details>
+<summary>📁 Github directory structure</summary>
+
+```
+/collaterals
+/data
+/scripts
+...
+```
+</details>
 
