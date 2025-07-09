@@ -2,7 +2,7 @@
 
 **Project**: Customer Retention Program<br>
 **Data Analyst**: Thorsten Weber<br>
-**Date**: xx.07.2025
+**Date**: 09.07.2025
 
 ## Key Insights
 
