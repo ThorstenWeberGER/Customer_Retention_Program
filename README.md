@@ -17,61 +17,66 @@
 ## 🚀 Project Overview
 
 Kurzbeschreibung des Projekts, z.B.:
-> Ein datengetriebenes Kundenbindungsprogramm für die Reisebranche, das Analysen und Visualisierungen nutzt, um Kunden besser zu verstehen und gezielt anzusprechen.
+> A data-driven customer retention program for the travel industry using segmentation of customers with a multi-level scoring model allowing individual marketing strategies per group based on better customer understanding.
 
 ## 🎯 Objectives
 
-- Ziel 1
-- Ziel 2
-- Ziel 3
-
-## 📊 Tech Stack
-
-- PostgreSQL
-- Python
-- Tableau
-
-## 📋 Deliverables
-
-- Konzept des Retention-Programms
-- Technische Dokumentation
-- Weitere Deliverables
+- Understand customers
+- Design customer retention program
+- Customer segmentation
+- Find the right perk per segment
 
 ## 📑 Management Summary
 
 Kurze Zusammenfassung der wichtigsten Erkenntnisse, Ergebnisse und nächsten Schritte.
 
-## 📝 Report
+## 📝 Analyst Report
 
 Detaillierte Analyse der Ausgangssituation, Zielgruppen usw.
 
-## 🔗 Links
+## 📋 Deliverables
 
-- [Weitere Dokumente](#)
-- [Job list](./psp.md)
+- Concept of Customer Retention Program
+- Exploratory analysis of our customers
+- CSV file with customer user_id, segmentation and perk
+- Presentation
+- Management summary
+- Detailed analysis
 
 ## 🗂️ Project Organization
 
-Kurze Beschreibung der Projektorganisation.
+<details>
+<summary>🧑 Stakeholder and Staffing</summary>
 
----
+- Mrs. XY (Marketing)
+- Thorsten Weber (Data Analyst)
+</details>
 
 <details>
 <summary>📅 Project Planning</summary>
+<br>
 
 - Meilenstein 1
 - Meilenstein 2
-
 </details>
 
 <details>
 <summary>📁 Github directory structure</summary>
-
-```
-/collaterals
-/data
-/scripts
-...
-```
+<br>main<br>
+/code<br>
+/collaterals<br>
+/data<br>
+/deliverables<br>
 </details>
 
+<details>
+<summary> 📊 Tech Stack</summary>
+
+- PostgreSQL (Joins, Aggregation, Grouping, Window Functions)
+- Python (Numpy, Pandas, SciKitLearn, Seaborn, Matplotlib)
+</details>
+
+## 🔗 Links
+
+- [Further documents](#)
+- [Job list](./psp.md)
