@@ -45,35 +45,32 @@ Because of this narrow focus, certain aspects of the TravelTide customer experie
 ## 📋 Deliverables
 
 - Concept of Customer Retention Program
-- CSV file with customer user_id, segmentation and perk
+- [CSV file (user_id, segmentation, perk)](data/tt_users_segment_perks.csv)
 - Presentation
-- Management summary
-- Detailed analysis
+- [Management summary](deliverables/Management_Summary.md)
+- [Analyst report](deliverables/Analyst_report.md)
 
 ## 🗂️ Project Organization
 
 <details>
 <summary>📅 Data related tasks</summary>
-<br>
 
 - Create the data model
 - Cleansing, transformation, aggregation
 - Feature engineering
 - Analyse bookings, sessions, user-data
-- Built and implement scoring model 
+- Built and implement scoring model
 </details>
 
 <details>
 <summary>📁 Github directory structure</summary>
-<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;main<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/code<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/collaterals<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/data<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/deliverables<br>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/deliverables
 </details>
-
 <details>
 <summary> 📊 Tech stack</summary>
 
