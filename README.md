@@ -40,6 +40,8 @@ Our user base is female (80%) around 43 years old and booked 2.5 trips in 2023. 
 - [Analyst report](deliverables/Analyst_report.md)
 - Presentation
 - [CSV file (user_id, segmentation, perk)](data/tt_users_segment_perks.csv)
+- [PostgreSQL script for data model](code/tt_create_data_model.sql)
+- [Python Jupyter Notebook](code/TT_scoring_model_final.ipynb)
 
 ## 🗂️ Project Organization
 
