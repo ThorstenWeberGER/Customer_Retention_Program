@@ -4,14 +4,13 @@ List of deliverables, todos and issues tracker
 ## Main deliverables and status
 | **Name**         | **Description**                                         | **Status**      |
 |------------------|--------------------------------------------------------|-----------------|
-| Data model       | Create data source                                    | Draft           |
-| SQL code         | Refine | In Progress     |
-| Scoring Model    | Finalize - describe                                   | Done     |
-| EDA              | 10 questions about business and target group. <BR>Identify main points for presentation | In progress            |
-| Presentation     | Slides (?) and recording                               | Open            |
-| Mngt Summary           | 1 pager                                          | Open            
-| Report           | Detailed analysis up to 3 pages                        | Open            |
-| CSV File         | With user_id and target group and perk                 | DONE            |
+| Data model       | Create data source                                    | done           |
+| SQL code         | Refine | done     |
+| Scoring Model    | Finalize - describe                                   | done     |
+| Presentation     | Slides (?) and recording                               | NEXT            |
+| Mngt Summary           | 1 pager                                          | done
+| Report           | Detailed analysis up to 3 pages                        | in progress            |
+| CSV File         | With user_id and target group and perk                 | done            |
 
 
 ## ToDos
@@ -20,12 +19,12 @@ List of deliverables, todos and issues tracker
 | Data model       | - Define and escribe<br>- Clean data<br>- Feature engineering<br>- Session level and user-level                                   | done            |
 | SQL code         | Working draft. Refine.                                 | done     |
 | Scoring Model    | Design, refine, test. Document in XLS                                 | done     |
-| EDA              | 10 main questions about business, target groups, ...   | Open            |
-| Presentation     | 5 slides, management target group, key results, obstacles, <br>limitations, further analysis, recommendations, video recording | Open            |
-| Report           | Closer look on model and so on, including EDA          | Open            |
-| RFM scoring      | Do in 2nd approach                                     | Postponed       |
-| k-means          | Do in 2nd approach, learn from Belinda                 | Postponed       |
-| Mngt Dashboard   | Do in 2nd approach, evtl. with Looker                  | Postponed       |
+| EDA              | 10 main questions about business, target groups, ...   | done            |
+| Presentation     | 5 slides, management target group, key results, obstacles, <br>limitations, further analysis, recommendations, video recording | NEXT            |
+| Report           | Closer look on model and so on, including EDA          | in progress            |
+| RFM scoring      | Do in 2nd approach                                     | postponed       |
+| k-means          | Do in 2nd approach, learn from Belinda                 | postponed       |
+| Mngt Dashboard   | Do in 2nd approach, evtl. with Looker                  | postponed       |
 
 ## Issues
 | **Issue ID** | **Description**                                         | **By when** | **Status**      |
@@ -42,12 +41,14 @@ List of deliverables, todos and issues tracker
 | 10           | Create final CSV                                  | wednesday | done
 | 11           | Check python code                                  | thursday | Open
 | 12           | Create Storyline + Presentation                                  | thursday | open
-| 13           | Create Mngt.Summary (1-pager)                                  | friday | open
+| 13           | Create Mngt.Summary (1-pager)                                  | friday | done
 | 14          | Create 3 Pager                                  | friday | open
 | 15           | Create a corr-map for features                                  |  | postponed
 | 16           | Think about correlations between groups                                  |  | postponed
 | 17           | EDA: Overall summary statistics, tabular, visual, verbal                                  | wednesday | in progress - refine
 | 18           | Describe data model                                  | thursday | open
+| 19           | Visualize retention program for presentation and for webpage                                  | thursday | open
+
 
 
 

@@ -4,15 +4,7 @@
 
 <h1 align="center">Customer Retention Program</h1>
 
-<p align="center">
-  <b>Mastery project utilizing PostgreSQL, Python, Tableau, Colab</b>
-</p>
-
-<p align="center">
-  <a href="./psp.md">Job list</a>
-</p>
-
----
+This highly interesting real life project is all about customer orientation and using big-data for creating a better customer experience. I am very happy about this mastery project during my studies at Masterschool, because it allows me to combine my years of experience in marketing, research and customer insights with new skills in SQL, Python, Storytelling and more. <br><br>Enjoy reading, let me know what you think and connect on [Linkedin](https://www.linkedin.com/in/thorweber)
 
 ## 🚀 Project Overview
 
@@ -28,27 +20,26 @@ Because of this narrow focus, certain aspects of the TravelTide customer experie
 </details>
 
 ## 🎯 Objectives
-> Design and imlement a personalized rewards program that keeps customers returning to the TravelTide platform. 
+> Design and imlement a personalized rewards program that keeps customers returning to the TravelTide platform.
+
 - Understand customers behaviour
-- Design customer retention program
 - Customer segmentation
-- Find the right perk per segment
+- Design customer retention program
 
 ## 📑 Management Summary
 
-*the first paragraph here..... <href:link to more>
+We have very different target groups. From business travelers, the young budget oriented and the rich and wealthy VIPs or premium bookers. Accordingly we need a comprehensive program giving every group what it desires most. From discounts to status. [Read more](deliverables/Management_Summary.md)
 
 ## 📝 Analyst Report
 
-*the first paragraph here..... <href:link to more>
+Our user base is female (80%) around 43 years old and booked 2.5 trips in 2023. Half is married, every third has one or more kids. Majority of 80% live spread across USA (rest in Canada) with NY being number one hometown for 11% of our users.  [Read more](deliverables/Analyst_report.md)
 
 ## 📋 Deliverables
 
-- Concept of Customer Retention Program
-- [CSV file (user_id, segmentation, perk)](data/tt_users_segment_perks.csv)
-- Presentation
 - [Management summary](deliverables/Management_Summary.md)
 - [Analyst report](deliverables/Analyst_report.md)
+- Presentation
+- [CSV file (user_id, segmentation, perk)](data/tt_users_segment_perks.csv)
 
 ## 🗂️ Project Organization
 
@@ -80,8 +71,3 @@ Because of this narrow focus, certain aspects of the TravelTide customer experie
 - GitHub
 - Tableau (t.b.d.)
 </details>
-
-## 🔗 Links
-
-- [Further documents](#)
-- [Job list](./psp.md)
