@@ -99,7 +99,6 @@ Based on best-practice studies and expert interviews we  expect a **significantl
 </table>
 
 ## More 
-* [Analyst report](./Analyst%20report.md)
-* [Scoring Model](./Analyst%20report.md)
-* [Tableau Dashboard (t.b.d.)](./Analyst%20report.md)
-* [Presentation](./Analyst%20report.md)
+* [Analyst report](Analyst_report.md)
+* [Presentation]()
+* [Tableau Dashboard (t.b.d.)]()
