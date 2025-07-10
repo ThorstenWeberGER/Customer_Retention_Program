@@ -8,6 +8,8 @@
 > To improve our customer experience, loyalty and recurring revenue
 
 So far, we focused successfully on hyper growth by strong customer akquisition campaigns. This caused **problems** like poor customer retention and continuously high costs for marketing and a high cost-per-trip-ratio. 
+> From the over 1M attracted and registered users only 5k have repeatedly booked with us in 2023.
+ 
 The **purpose** of this project is to change this by designing a highly targeted and data-driven customer loyalty program. 
 The **scope** is to analyse customer data, find patterns, insights, define consistent target segments and identify attrative perks for each segment. These segments are highly actionable allowing targeted 1:1 marketing campaigns.
 
