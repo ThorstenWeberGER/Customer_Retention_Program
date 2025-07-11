@@ -224,7 +224,7 @@ Strong **growth potential** in underserved user groups (men, Families, young, we
 
 The scoring model takes into account user data like age, children and booking behaviour. For every target group we have defined a set of features representing hypothesis how to identify them. For every user eight scores are calculated, one score for every potential target group, and is associated to the group with the highest score. Bearing many advantages the scoring model bears one downside. One user can only be associated with one group. In real life one user can be acting in different roles, like being a business traveler and a family traveler. These different behaviours are averaged out.
 
-Check out the [technical docu](../collaterals/travel_tide_scoring_model_docu.pdf) for detailed information.
+Check out the [technical docu](../collaterals/travel_tide_scoring_model_docu_v2.pdf) for detailed information.
 
 ## ⚠️ Data anomalies
 

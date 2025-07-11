@@ -38,7 +38,7 @@ Our user base is female (80%) around 43 years old and booked 2.5 trips in 2023. 
 
 - [Management summary](deliverables/Management_Summary.md)
 - [Analyst report](deliverables/Analyst_report.md)
-- Presentation
+- [Presentation (PDF)](TT_Customer%20retention%20program_CxO_20250711.pdf)
 - [CSV file (user_id, segmentation, perk)](data/tt_users_segment_perks.csv)
 - [PostgreSQL script for data model](code/tt_create_data_model.sql)
 - [Python Jupyter Notebook](code/TT_scoring_model_final.ipynb)
