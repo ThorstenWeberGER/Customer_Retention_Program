@@ -9,7 +9,7 @@ List of deliverables, todos and issues tracker
 | Scoring Model    | Finalize - describe                                   | done     |
 | Presentation     | Slides (?) and recording                               | NEXT            |
 | Mngt Summary           | 1 pager                                          | done
-| Report           | Detailed analysis up to 3 pages                        | in progress            |
+| Report           | Detailed analysis up to 3 pages                        | done            |
 | CSV File         | With user_id and target group and perk                 | done            |
 
 
@@ -21,7 +21,7 @@ List of deliverables, todos and issues tracker
 | Scoring Model    | Design, refine, test. Document in XLS                                 | done     |
 | EDA              | 10 main questions about business, target groups, ...   | done            |
 | Presentation     | 5 slides, management target group, key results, obstacles, <br>limitations, further analysis, recommendations, video recording | NEXT            |
-| Report           | Closer look on model and so on, including EDA          | in progress            |
+| Report           | Closer look on model and so on, including EDA          | done            |
 | RFM scoring      | Do in 2nd approach                                     | postponed       |
 | k-means          | Do in 2nd approach, learn from Belinda                 | postponed       |
 | Mngt Dashboard   | Do in 2nd approach, evtl. with Looker                  | postponed       |
@@ -30,14 +30,14 @@ List of deliverables, todos and issues tracker
 | **Issue ID** | **Description**                                         | **By when** | **Status**      |
 |--------------|---------------------------------------------------------|----------|-----------------|
 | 1            | Setup github                                            | thursday| done            |
-| 2            | Create readme.md                                        |       friday   | In progress            |
+| 2            | Create readme.md                                        |       friday   | done            |
 | 3            | Upload + link all deliverables                          | friday | In progress            |
 | 4            | Handling missing values                                 |  | postponed            |
 | 5            | Optimize scoring + draw conclusions<br>check if input for scoring needs scaling | wednesday | done            |
-| 6            | Target group analysis (4 charts template) structure     | wednesday | NEXT            |
+| 6            | Target group analysis (4 charts template) structure     | wednesday | donedone            |
 | 7            | create a session-based sql script and dataframe + link final_target_group info into it. create. this is basis for number 6 detail analysis -> look if target groups "really" differentiate | wednesday | done            |
 | 8            | think about small groups -> drop? -> no. chance for marketing  | wednesday | done            |
-| 9           | analysis of 3 KPIs over last years -> show for presentation -> bookings, new customers, some ratios like (conversion, cancelation, etc.)                                  | wednesday | NEXT
+| 9           | analysis of 3 KPIs over last years -> show for presentation -> bookings, new customers, some ratios like (conversion, cancelation, etc.)                                  | wednesday | done
 | 10           | Create final CSV                                  | wednesday | done
 | 11           | Check python code                                  | thursday | Open
 | 12           | Create Storyline + Presentation                                  | thursday | open
@@ -45,9 +45,9 @@ List of deliverables, todos and issues tracker
 | 14          | Create 3 Pager                                  | friday | open
 | 15           | Create a corr-map for features                                  |  | postponed
 | 16           | Think about correlations between groups                                  |  | postponed
-| 17           | EDA: Overall summary statistics, tabular, visual, verbal                                  | wednesday | in progress - refine
-| 18           | Describe data model                                  | thursday | open
-| 19           | Visualize retention program for presentation and for webpage                                  | thursday | open
+| 17           | EDA: Overall summary statistics, tabular, visual, verbal                                  | wednesday | done
+| 18           | Describe data model                                  | thursday | postponed
+| 19           | Visualize retention program for presentation and for webpage                                  | thursday | postponed
 
 
 
