@@ -100,5 +100,5 @@ Based on best-practice studies and expert interviews we  expect a **significantl
 
 ## More 
 * [Analyst report](Analyst_report.md)
-* [Presentation]()
+* [Presentation (PDF)](TT_Customer%20retention%20program_CxO_20250711.pdf)
 * [Tableau Dashboard (t.b.d.)]()
