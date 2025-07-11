@@ -14,9 +14,9 @@ The **purpose** of this project is to change this by designing a highly targeted
 The **scope** is to analyse customer data, find patterns, insights, define consistent target segments and identify attrative perks for each segment. These segments are highly actionable allowing targeted 1:1 marketing campaigns.
 
 ### Key Findings
-> We identified eight user segments and strong growth potential
+> We analyzed ~5800 users with +7 sessions in 2023 and identified eight user segments and strong growth potential
 
-**User base** is female (80%) around 43 years old and booked 2.5 trips in 2023. Half is married, every third has one or more kids. Majority of 80% live spread across USA (rest in Canada) with NY being number one hometown for 11% of our users. 
+**User base** is female (80%) around 43 years old and booked 2.8 trips in 2023. Half is married, every third has one or more kids. Majority of 80% live spread across USA (rest in Canada) with NY being number one hometown for 11% of our users. 
 * **KPIs**: 16M USD revenue 2023 based on 16k booked trips by 5,8k users. Spend per seat is around 316 EUR preferably short-medium-haul flights.
 * **Customer segments**: Top 3 are B2B- (48%), VIP- (27%) and Premium (10%) bookers followed by window shopper. Underrepresented groups are families, users below 20, weekend tripper and groups
 * **Lost revenue** of 1,3M USD cased by cancelations should be adressed by a seperate win-back program 

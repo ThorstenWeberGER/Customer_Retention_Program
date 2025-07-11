@@ -7,7 +7,7 @@ List of deliverables, todos and issues tracker
 | Data model       | Create data source                                    | done           |
 | SQL code         | Refine | done     |
 | Scoring Model    | Finalize - describe                                   | done     |
-| Presentation     | Slides (?) and recording                               | NEXT            |
+| Presentation     | Slides (?) and recording                               | next            |
 | Mngt Summary           | 1 pager                                          | done
 | Report           | Detailed analysis up to 3 pages                        | done            |
 | CSV File         | With user_id and target group and perk                 | done            |
@@ -16,7 +16,7 @@ List of deliverables, todos and issues tracker
 ## ToDos
 | **Topic**        | **Description**                                         | **Status**      |
 |------------------|--------------------------------------------------------|-----------------|
-| Data model       | - Define and escribe<br>- Clean data<br>- Feature engineering<br>- Session level and user-level                                   | done            |
+| Data model       | - Define and escribe<br>- Clean data<br>- Feature engineering<br>- Session level and user-level                                   | postponed            |
 | SQL code         | Working draft. Refine.                                 | done     |
 | Scoring Model    | Design, refine, test. Document in XLS                                 | done     |
 | EDA              | 10 main questions about business, target groups, ...   | done            |
