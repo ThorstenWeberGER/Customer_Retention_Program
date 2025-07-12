@@ -11,7 +11,7 @@ This highly interesting real life project is all about customer orientation and 
 > A data-driven customer retention program for the travel industry using segmentation of customers with a multi-level scoring model allowing individual marketing strategies per group based on better customer understanding.
 
 <details>
-<summary>Background information about customer</summary>
+<summary>Background information</summary>
 <br>The online-booking startup TravelTide is a new player in the online travel industry. It has experienced steady growth since it was founded pushed forward by strength of its data aggregation and search technology.
 <br><br>
 So far, TravelTide has maintained a hyper-focus on building an unfair advantage along a limited number of dimensions - in this case, building the biggest travel inventory and making it easily searchable. 
