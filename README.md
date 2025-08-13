@@ -4,7 +4,7 @@
 
 <h1 align="center">Customer Retention Program</h1>
 
-This highly interesting real life project is all about customer orientation and using big-data for creating a better customer experience. I am very happy about this mastery project during my studies at Masterschool, because it allows me to combine my years of experience in marketing, research and customer insights with new skills in SQL, Python, Storytelling and more. <br><br>Enjoy reading, let me know what you think and connect on [Linkedin](https://www.linkedin.com/in/thorweber)
+This highly interesting **real life project** is all about customer orientation and using big-data for creating a better customer experience. I am very happy about this mastery project during my studies at Masterschool, because it allows me to combine my years of experience in marketing, research and customer insights with new skills in SQL, Python, Storytelling and more. <br><br>Enjoy reading, let me know what you think and connect on [Linkedin](https://www.linkedin.com/in/thorweber)
 
 ## 🚀 Project Overview
 
@@ -43,6 +43,20 @@ Our user base is female (80%) around 43 years old and booked 2.5 trips in 2023. 
 - [PostgreSQL script for data model](code/tt_create_data_model.sql)
 - [Python Jupyter Notebook](code/TT_scoring_model_final.ipynb)
 
+## 💪  Skills built
+
+* Customer Segmentation with a multi-level scoring model 
+* Built customized data models with PostgreSQL
+* Ingest data from PostgreSQL into Python Pandas DataFrames
+* Analysis with Pandas and visualization with Matplotlib and Seaborn
+* Engaging C-level presentation of findings using Data Storytelling techniques
+
+## 💡 My Takeaway
+
+I loved this project as I could make use of my broad marketing expertise. And I learned a lot. But doing a scoring model manually in the traditional way **can lead to biased results** as one selects the distinguishing features yourself. 
+
+Therefore I am keen on  applying **machine learning models** like k-means for the segmentation. This will be my next step in this project and becoming a Data Professional. 
+ 
 ## 🗂️ Project Organization
 
 <details>
