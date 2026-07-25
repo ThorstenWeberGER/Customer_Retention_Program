@@ -4,6 +4,8 @@
 
 <h1 align="center">Customer Retention Program</h1>
 
+> **For Recruiters:** A customer segmentation & retention strategy built end-to-end — PostgreSQL data modeling, a Python scoring model, and a C-level presentation translating data into a business decision.
+
 This highly interesting **real life project** is all about customer orientation and using big-data for creating a better customer experience. I am very happy about this mastery project during my studies at Masterschool, because it allows me to combine my years of experience in marketing, research and customer insights with new skills in SQL, Python, Storytelling and more. <br><br>Enjoy reading, let me know what you think and connect on [Linkedin](https://www.linkedin.com/in/thorweber)
 
 ## 🚀 Project Overview
